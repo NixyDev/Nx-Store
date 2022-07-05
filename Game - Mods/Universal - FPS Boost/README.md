@@ -9,7 +9,7 @@ This mod try to boost FPS removing Textures, Shadows, Light Type, With a FPS Unl
 
 · Is Beta: No
 
-· Risk of Use: Medium/User Responsibility
+· Risk of Use: User Responsibility
 
 · Games Supported: Universal/Maybe unstable in some games
 
