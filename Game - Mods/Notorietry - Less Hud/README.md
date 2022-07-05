@@ -3,7 +3,7 @@
 Description:
 This mod changes the appearance of the main UI, making it a bit more minimalistic and nice
 
-· Creator NixyDev
+· Creator: NixyDev
 
 · Is Updated: Yes
 
