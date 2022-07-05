@@ -1,7 +1,7 @@
 # Graphics Mod
 
 Description:
-This is an Addon for Shaders mod, This Addons makes more realistic that graphics
+This is an Addon for Shaders mod, This Addons makes more realistic shaders graphics
 
 · Creator: NixyDev
 
