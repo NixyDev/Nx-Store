@@ -16,7 +16,7 @@ In-Game Explorer, RemoteSpy Etc
 
 
 
-The software/applications/APIS that can run our software?
+Which software/applications/APIS that can run our software?
 
 Almost every software can run our software correctly
 
