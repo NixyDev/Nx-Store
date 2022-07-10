@@ -2,7 +2,7 @@
 
 A bit of anything (almost random things...)
 
-# Clients that can run our Softwares
+# Clients that can run my Software
 
 · Synapse X
 
@@ -23,7 +23,7 @@ A bit of anything (almost random things...)
 · And more
 
 
-# Minimum requirements to run our Software
+# Minimum requirements to run my Software
 
 · Luau Decompiler within
 
