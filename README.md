@@ -1,4 +1,4 @@
-# Nixy Public Code
+# Nixy Public Software
 
 A bit of anything (almost random things...)
 
