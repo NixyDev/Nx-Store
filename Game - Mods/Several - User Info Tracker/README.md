@@ -1,15 +1,15 @@
 # User Info Tracker
 
-Description: This mod get all visible user data (in-game, like progress, level, settings, never personal info)
+Description: This mod get all visible user data (in-game, like progress, level, settings, never personal info) in a Console Program
  
-· Creator: NixyDev
+Â· Creator: NixyDev
 
-· Is Updated: Yes
+Â· Is Updated: Yes
 
-· Is Beta: Yes
+Â· Is Beta: Yes
 
-· Risk of Use: None
+Â· Risk of Use: None
 
-· Games Supported: Several Games
+Â· Games Supported: Several Games
 
-· Free for Use: Read main Repos Licence
+Â· Free for Use: Read main Repos Licence
